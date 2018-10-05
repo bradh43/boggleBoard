@@ -8,8 +8,8 @@ Created a GUI for the game Boggle Board.
 </p>
 <p>
 <img align="left" src="boggleBoardScreenShot.png" height="300">
-img align="center" src="boggleBoard9x9ScreenShot.png" height="300">
-img align="right" src="boggleBoardCheatScreenShot.png" height="300">
+<img align="center" src="boggleBoard9x9ScreenShot.png" height="300">
+<img align="right" src="boggleBoardCheatScreenShot.png" height="300">
 </p>
 <br>
 
